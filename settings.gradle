@@ -1,0 +1,6 @@
+include 'contracts-java'
+//findProject(':contracts-java')?.name = 'contracts'
+include 'workflow-java'
+//findProject(':workflow-java')?.name = 'workflow'
+include 'client'
+

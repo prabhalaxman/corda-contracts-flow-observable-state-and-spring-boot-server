@@ -1,0 +1,12 @@
+
+[91m   ______               __
+  / ____/     _________/ /___ _
+ / /     __  / ___/ __  / __ `/         [94mI named my dog 'Six Miles' so I can tell
+[91m/ /___  /_/ / /  / /_/ / /_/ /          [94mpeople I walk Six Miles every day.
+[91m\____/     /_/   \__,_/\__,_/[m
+
+[99;1m--- Corda Open Source 4.0 (503a2ff) -------------------------------------------------------------
+
+[m
+Logs can be found in                    : /Users/prabhakaran/IdeaProjects/cordaProjects/BankVendorSample/workflow-java/build/nodes/Bank/logs
+Database connection url is              : jdbc:h2:tcp://localhost:20041/node
