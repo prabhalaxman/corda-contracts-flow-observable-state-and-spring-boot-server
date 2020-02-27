@@ -4,8 +4,11 @@ The first step is to deploy the CorDapp to nodes running locally.
 Navigate to the root directory of the BankVendorSample CorDapp.
 To deploy the nodes on Windows run the following command: gradlew clean deployNodes
 To deploy the nodes on Mac or Linux run the following command: ./gradlew clean deployNodes
-To best understand the deployment process, there are several perspectives it is helpful to see. On Windows run the following command: workflow-java\build\nodes\runnodes
-On Mac/Linux run the following command: workflow-java/build/nodes/runnodes
+
+To best understand the deployment process, there are several perspectives it is helpful to see. On Windows run the following command: 
+workflow-java\build\nodes\runnodes
+On Mac/Linux run the following command:
+workflow-java/build/nodes/runnodes
 
 This command opens four terminal windows: the notary, and a node each for Bank, Vendor, and Account. A notary is a validation service that prevents double-spending, enforces timestamping, and may also validate transactions. For more information on notaries, see the notary documentation.
 
