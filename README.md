@@ -1,4 +1,6 @@
 Step One: Deploy the CorDapp locally
+
+
 The first step is to deploy the CorDapp to nodes running locally.
 
 Navigate to the root directory of the BankVendorSample CorDapp.
