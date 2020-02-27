@@ -2,8 +2,10 @@ Step One: Deploy the CorDapp locally
 The first step is to deploy the CorDapp to nodes running locally.
 
 Navigate to the root directory of the BankVendorSample CorDapp.
-To deploy the nodes on Windows run the following command: gradlew clean deployNodes
-To deploy the nodes on Mac or Linux run the following command: ./gradlew clean deployNodes
+To deploy the nodes on Windows run the following command:
+gradlew clean deployNodes
+To deploy the nodes on Mac or Linux run the following command:
+./gradlew clean deployNodes
 
 To best understand the deployment process, there are several perspectives it is helpful to see. On Windows run the following command: 
 workflow-java\build\nodes\runnodes
